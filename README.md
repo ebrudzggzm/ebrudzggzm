@@ -8,7 +8,7 @@ Frontend Developer | Enthusiastic Learner | Continuously Evolving
 
 ## About Me
 
-Hello! I'm [Ebru], a graduate in mechanical engineering and a frontend developer. I work with technologies like HTML, CSS, JavaScript, and React, constantly focusing on improving my skills in this field.
+Hello! I'm Ebru, a graduate in mechanical engineering and a frontend developer. I work with technologies like HTML, CSS, JavaScript, and React, constantly focusing on improving my skills in this field.
 
 I have a passion for coding and consider exploring and learning new technologies an exciting journey. My inclination toward problem-solving comes from my background in mechanical engineering.
 
@@ -45,7 +45,7 @@ Frontend Geliştirici | Öğrenmeyi Seven | Sürekli Gelişmeye Açık
 
 ## Hakkımda
 
-Merhaba! Ben [Ebru], makina mühendisliği mezunu ve frontend geliştiriciyim. HTML, CSS, JavaScript ve React gibi teknolojilerle çalışıyor ve bu alandaki yeteneklerimi sürekli geliştirmeye odaklanıyorum. 
+Merhaba! Ben Ebru, makina mühendisliği mezunu ve frontend geliştiriciyim. HTML, CSS, JavaScript ve React gibi teknolojilerle çalışıyor ve bu alandaki yeteneklerimi sürekli geliştirmeye odaklanıyorum. 
 
 Kod yazmayı seviyorum ve yeni teknolojileri keşfetmek, öğrenmek benim için tutkulu bir süreç. Problemleri çözmeyi seven bir yapım var ve bu, makina mühendisliği geçmişimden geliyor. 
 
