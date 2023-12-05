@@ -28,6 +28,13 @@ I'm also adept at communication, prioritize teamwork, and prefer working in envi
 ---
 
 ## Contact
+If you'd like to collaborate on a project or just say hello, feel free to get in touch:
+
+LinkedIn: (https://www.linkedin.com/in/ebruduzgungozmen/)
+
+Email: ebrugozmen05@gmail.com
+
+Thank you! 😊
 
 ---
 # Merhaba, Benim Adım [Ebru]
@@ -61,7 +68,7 @@ Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve
 
 Eğer bir projede işbirliği yapmak ya da sadece merhaba demek isterseniz benimle iletişime geçmekten çekinmeyin:
 
-- LinkedIn: [Profilinizin Linki](https://www.linkedin.com/in/ebruduzgungozmen/)
+- LinkedIn: (https://www.linkedin.com/in/ebruduzgungozmen/)
   
 - E-posta: ebrugozmen05@gmail.com
 
