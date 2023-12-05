@@ -1,16 +1,68 @@
 ### Hi there 👋
 
-<!--
-**ebrudzggzm/ebrudzggzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm [Ebru]
 
-Here are some ideas to get you started:
+Frontend Developer | Enthusiastic Learner | Continuously Evolving
 
-- 🔭 I’m currently working on Frontend technologies.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Hello! I'm [Ebru], a graduate in mechanical engineering and a frontend developer. I work with technologies like HTML, CSS, JavaScript, and React, constantly focusing on improving my skills in this field.
+
+I have a passion for coding and consider exploring and learning new technologies an exciting journey. My inclination toward problem-solving comes from my background in mechanical engineering.
+
+I'm also adept at communication, prioritize teamwork, and prefer working in environments enriched with diverse perspectives.
+
+---
+
+## My Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Web Design
+- Git and GitHub
+
+---
+
+## Contact
+
+---
+# Merhaba, Benim Adım [Ebru]
+
+Frontend Geliştirici | Öğrenmeyi Seven | Sürekli Gelişmeye Açık
+
+---
+
+## Hakkımda
+
+Merhaba! Ben [Ebru], makina mühendisliği mezunu ve frontend geliştiriciyim. HTML, CSS, JavaScript ve React gibi teknolojilerle çalışıyor ve bu alandaki yeteneklerimi sürekli geliştirmeye odaklanıyorum. 
+
+Kod yazmayı seviyorum ve yeni teknolojileri keşfetmek, öğrenmek benim için tutkulu bir süreç. Problemleri çözmeyi seven bir yapım var ve bu, makina mühendisliği geçmişimden geliyor. 
+
+Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve farklı bakış açılarıyla zenginleşen ortamlarda çalışmayı tercih ederim.
+
+---
+
+## Becerilerim
+
+- HTML5
+- CSS3
+- JavaScript(ES6+)
+- React.js
+- Responsive Web Tasarım
+- Git ve GitHub
+
+---
+
+## İletişim
+
+Eğer bir projede işbirliği yapmak ya da sadece merhaba demek isterseniz benimle iletişime geçmekten çekinmeyin:
+
+- LinkedIn: [Profilinizin Linki](https://www.linkedin.com/in/ebruduzgungozmen/)
+  
+- E-posta: ebrugozmen05@gmail.com
+
+Teşekkürler! 😊
