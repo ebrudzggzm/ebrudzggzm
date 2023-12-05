@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ebru,
+## I'm Ebru,
 
 Frontend Developer | Enthusiastic Learner | Continuously Evolving
 
@@ -37,7 +37,7 @@ Email: ebrugozmen05@gmail.com
 Thank you! 😊
 
 ---
-# Merhaba, Benim Adım Ebru,
+# Merhaba, Ben Ebru,
 
 Frontend Geliştirici | Öğrenmeyi Seven | Sürekli Gelişmeye Açık
 
