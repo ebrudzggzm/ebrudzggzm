@@ -58,6 +58,7 @@ Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve
 - HTML5
 - CSS3
 - JavaScript(ES6+)
+- Scss,Sass
 - React.js
 - Responsive Web Tasarım
 - Git ve GitHub
