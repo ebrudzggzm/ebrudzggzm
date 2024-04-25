@@ -24,6 +24,10 @@ I'm also adept at communication, prioritize teamwork, and prefer working in envi
 - React.js
 - Responsive Web Design
 - Git and GitHub
+- Redux
+- Redux Toolkit
+- Redux Thunk
+  
 
 ---
 
@@ -62,6 +66,9 @@ Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve
 - React.js
 - Responsive Web Tasarım
 - Git ve GitHub
+- Redux
+- Redux Toolkit
+- Redux Thunk
 
 ---
 
