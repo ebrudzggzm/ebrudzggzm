@@ -27,6 +27,8 @@ I'm also adept at communication, prioritize teamwork, and prefer working in envi
 - Redux
 - Redux Toolkit
 - Redux Thunk
+- Firebase
+- Unit Test(Jest/Testing Library)
   
 
 ---
