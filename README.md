@@ -71,6 +71,8 @@ Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve
 - Redux
 - Redux Toolkit
 - Redux Thunk
+- Firebase
+- Unit Test(Jest/Testing Library
 
 ---
 
