@@ -29,6 +29,7 @@ I'm also adept at communication, prioritize teamwork, and prefer working in envi
 - Redux Thunk
 - Firebase
 - Unit Test(Jest/Testing Library)
+- Typescript
   
 
 ---
@@ -72,7 +73,8 @@ Aynı zamanda iletişimi güçlü birisiyim, ekip çalışmasına önem verir ve
 - Redux Toolkit
 - Redux Thunk
 - Firebase
-- Unit Test(Jest/Testing Library
+- Unit Test(Jest/Testing Library)
+- Typescript
 
 ---
 
