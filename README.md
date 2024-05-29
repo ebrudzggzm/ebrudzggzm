@@ -21,6 +21,7 @@ I'm also adept at communication, prioritize teamwork, and prefer working in envi
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Scss,Sass
 - React.js
 - Responsive Web Design
 - Git and GitHub
